@@ -1,0 +1,16 @@
+EEE2044S Introduction to Power Engineering ............................................... 16 6
+EEE2045F Analogue Electronics .................................................................... 16 6
+EEE2046F Embedded Systems I ..................................................................... 16 6
+EEE2047S Signals and Systems I .................................................................... 16 6
+EEE2048F Professional Communication for Electrical Engineering ................ 8 6
+MAM2083F Vector Calculus for Engineers ...................................................... 16 6
+MAM2084S Linear Algebra and DEs for Engineers ......................................... 16 6
+MEC1009F Introduction to Engineering Mechanics ........................................ 16 5
+MEC2026S Project Management ........................................................................ 8 6
+PHY2010S Electromagnetism for Engineers ................................................... 16 6
+Total credits per year ................................................................... 144
+
+<tr>
+  <td></td>
+  <td></td>
+</tr>
